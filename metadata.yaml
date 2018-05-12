@@ -1,0 +1,30 @@
+_repo: Peter-of-New-AmsterdamA-Story-of-Old-New-York_42327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: When twelve-year old Peter Hulbert is left behind as an orphan in Leyden,
+  Holland as the rest of the Pilgrims sail for the New World, a merchant of the West
+  India Company takes him to New Amsterdam as his servant. Here is where Peter's adventures
+  begin in this historically accurate tale of life in Old New York.
+gutenberg_issued: '2013-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'New York (N.Y.) -- Juvenile fiction'
+title: 'Peter of New Amsterdam: A Story of Old New York'
+url: http://www.gutenberg.org/ebooks/42327
